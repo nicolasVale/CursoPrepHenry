@@ -1,2 +1,2 @@
-# CursoPrepHenry
-Repositorio para el curso de Henry
+# CursoPrepHenryRepoGIThuB
+Repositorio para el curso de Henry en GitHub
